@@ -10,10 +10,10 @@
 (https://github.com/JefersonMesaUFPSO/UFPSOConnect)  
   
 
-🍃 I'm current learning React for Front-end and Java for Back-end  
+- 🍃 I'm current learning React for Front-end and Java for Back-end  
   
 
-✏️ I'm studying in Francisco de Paula Santander Ocaña University - 🇨🇴  
+. ✏️ I'm studying in Francisco de Paula Santander Ocaña University - 🇨🇴  
   
 
 <br/>  
@@ -100,4 +100,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
