@@ -13,7 +13,7 @@
 - 🍃 I'm current learning React for Front-end and Java for Back-end  
   
 
-. ✏️ I'm studying in Francisco de Paula Santander Ocaña University - 🇨🇴  
+- ✏️ I'm studying in Francisco de Paula Santander Ocaña University - 🇨🇴  
   
 
 <br/>  
